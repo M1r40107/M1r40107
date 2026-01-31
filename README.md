@@ -11,6 +11,7 @@
 <p>- Atualmente fazendo diversos cursos para aumentar meus conhecimentos na área de Redes e CiberSegurança;</p>
 <p>- Desenvolvendo mais projetos para preencher meu portifólio;</p>
 <p>- Ganhando experiência em infra durante meu estágio;</p>
+
 ###
 
 <h2 align="left">Minhas Principais Tecnologias</h2>
